@@ -1,0 +1,7 @@
+---
+
+### Generic smell configuration
+
+detectors:
+  IrresponsibleModule:
+    enabled: false
